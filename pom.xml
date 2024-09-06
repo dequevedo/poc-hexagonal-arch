@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.dequevedo</groupId>
-	<artifactId>poc-spring-boot</artifactId>
+	<artifactId>poc-hexagonal-arch</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>poc-spring-boot</name>
-	<description>Demo project for Spring Boot</description>
+	<name>poc-hexagonal-arch</name>
+	<description>Project using Hexagonal Architecture</description>
 
 	<properties>
 		<java.version>17</java.version>
